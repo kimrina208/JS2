@@ -1,0 +1,15 @@
+#big-block {
+  position: relative;
+  height: 500px;
+  width: 500px;
+  background-color: gray;
+}
+
+#small-block {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  left: 0;
+  top: 225px;
+}
